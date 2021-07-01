@@ -1,0 +1,10 @@
+.promo__item {
+  display: flex;
+  flex-direction: row;
+}
+
+.promo__description,
+.promo__image {
+  flex-basis: 50%;
+}
+

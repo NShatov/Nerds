@@ -1,0 +1,10 @@
+.slider__item {
+  visibility: hidden;
+  height: 0;
+}
+
+.slide--active {
+  visibility: visible;
+  height: auto;
+}
+
